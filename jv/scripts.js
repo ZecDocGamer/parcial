@@ -1,7 +1,7 @@
 const items = [
   {
     title: "THRONE AND LIBERTY",
-    img: "/img/throne-and-liberty.png",
+    img: "./img/throne-and-liberty.png",
     category: "free",
     favorite: false,
     description:
@@ -9,7 +9,7 @@ const items = [
   },
   {
     title: "Monster Hunter Wilds",
-    img: "/img/mosterhunter.png",
+    img: "./img/mosterhunter.png",
     category: "action",
     favorite: false,
     description:
@@ -17,7 +17,7 @@ const items = [
   },
   {
     title: "Golf With Your Friends",
-    img: "/img/golfwith.png",
+    img: "./img/golfwith.png",
     category: "sport",
     favorite: false,
     description:
@@ -25,7 +25,7 @@ const items = [
   },
   {
     title: "DARK SOULS™ III",
-    img: "/img/darksouls.png",
+    img: "./img/darksouls.png",
     category: "adventure",
     favorite: false,
     description:
@@ -33,7 +33,7 @@ const items = [
   },
   {
     title: "Warframe",
-    img: "/img/warframe.png",
+    img: "./img/warframe.png",
     category: "free",
     favorite: false,
     description:
@@ -41,7 +41,7 @@ const items = [
   },
   {
     title: "Warhammer 40,000: Space Marine 2",
-    img: "/img/spacemarine.png",
+    img: "./img/spacemarine.png",
     category: "action",
     favorite: false,
     description:
@@ -49,14 +49,14 @@ const items = [
   },
   {
     title: "NBA 2K25",
-    img: "/img/nba2k25.png",
+    img: "./img/nba2k25.png",
     category: "sport",
     favorite: false,
     description: "Define your legacy in My CAREER, MyTEAM, My NBA and The W.",
   },
   {
     title: "Ghost of Tsushima",
-    img: "/img/ghostoftsushima.png",
+    img: "./img/ghostoftsushima.png",
     category: "adventure",
     favorite: false,
     description:
@@ -64,7 +64,7 @@ const items = [
   },
   {
     title: "Team Fortress 2",
-    img: "/img/tf2.png",
+    img: "./img/tf2.png",
     category: "free",
     favorite: false,
     description:
@@ -72,7 +72,7 @@ const items = [
   },
   {
     title: "ELDEN RING",
-    img: "/img/elderring.png",
+    img: "./img/elderring.png",
     category: "action",
     favorite: false,
     description:
@@ -80,7 +80,7 @@ const items = [
   },
   {
     title: "EA SPORTS FC™ 24",
-    img: "/img/easports.png",
+    img: "./img/easports.png",
     category: "sport",
     favorite: false,
     description:
@@ -88,7 +88,7 @@ const items = [
   },
   {
     title: "Terraria",
-    img: "/img/terraria.png",
+    img: "./img/terraria.png",
     category: "adventure",
     favorite: false,
     description:
@@ -96,7 +96,7 @@ const items = [
   },
   {
     title: "Albion Online",
-    img: "/img/albion.png",
+    img: "./img/albion.png",
     category: "free",
     favorite: false,
     description:
@@ -104,7 +104,7 @@ const items = [
   },
   {
     title: "Sekiro™: Shadows Die Twice",
-    img: "/img/sekiro.png",
+    img: "./img/sekiro.png",
     category: "action",
     favorite: false,
     description:
@@ -112,7 +112,7 @@ const items = [
   },
   {
     title: "WWE 2K24",
-    img: "/img/wwe2k24.png",
+    img: "./img/wwe2k24.png",
     category: "sport",
     favorite: false,
     description:
